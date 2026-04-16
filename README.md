@@ -142,8 +142,7 @@ print("Transmission stable. Orbit maintained.")
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║  "The universe is under no obligation to make sense       ║
-║   to you. Neither is my commit history."                  ║
+║"To whom it may concern, think beyond what seems farthest."║
 ║                                           — mardromus     ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
